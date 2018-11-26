@@ -1,0 +1,118 @@
+# Please add your entries to a random position in the file.
+# This is to remove conflicts with other people adding entries.
+
+# The Format is :
+# - name: Mentor's name
+#   github: Mentor's Github Username
+#   image: Mentor's image (or representation like a "nick" image)
+#   twitter: Mentor's Twitter ID
+#   facebook: Mentor's Facebook ID
+#   lat: Mentor's Latitude
+#   lng: Mentor's Longitude
+- name: Akshat Garg
+  github: akshatnitd
+  image: akshatnitd.jpg
+
+- name: Divyanshu N Singh
+  github: DNS-404
+  image: DNS-404.PNG
+
+- name: Shubham Kumar
+  github: sk9331657
+  image: shubham.png
+
+- name: Harshit Khandelwal
+  image: 27783786.png
+  github: liveHarshit
+
+- name: tabesin
+  image: tabesin.png
+  github: tabesin
+
+- name: Shashank Kumar
+  image: realslimshanky.png
+  github: realslimshanky
+
+- name: Saurabh Srivastava
+  image: simsausaurabh.png
+  github: simsausaurabh
+
+- name: Hong Phuc Dang
+  image: hpdang.jpg
+  github: hpdang
+
+- name: Sanskar Jethi
+  image: sanskar.jpg
+  github: stealthanthrax
+
+- name: Mohit Sharma
+  image: ms.jpg
+  github: ms10398
+
+- name: Yash Kumar Verma
+  image: YKV.jpg
+  github: YashKumarVerma
+
+- name: Arundhati Gupta
+  image: agupta.jpg
+  github: arundhati24
+
+- name: Shubham Gupta
+  image: ShubhamGupta.png
+  github: fragm3
+
+- name: Jogendra Kumar
+  image: jogendra.png
+  github: jogendra
+
+- name: Abishek V Ashok
+  image: AbishekVAshok.png
+  github: abishekvashok
+
+- name: Nikit Bhandari
+  image: nikitbhandari.jpeg
+  github: nikit19
+
+- name: Rohit Potter
+  image: RohitPotter.jpg
+  github: rpotter12
+  lat: 30.733315
+  lng: 76.779419
+
+- name: Nicco Kunzmann
+  image: Nicco Kunzmann.png
+  github: niccokunzmann
+  lat: 52.3863
+  lng: 13.0983
+
+- name: Anshuman Verma
+  image: Anshuman Verma.jpg
+  github: anshumanv
+
+- name: Isuru Abeywardana
+  image: isuruAb.jpg
+  github: Isuru Abeywardana
+
+- name: Saurav Vishal
+  image: Saurav Vishal.jpg
+  github: sauravvishal8797
+
+- name: Mohit Kumar
+  image: mohitkumar.png
+  github: batbrain7
+
+- name: Akshat Jain
+  image: rsz_akshat_jain.png
+  github: Akshat-Jain
+
+- name: Tarun Kumar
+  image: Tarun Kumar.jpg
+  github: meets2tarun
+
+- name: Prateek Chanda
+  image: prateekiiest.jpg
+  github: prateekiiest
+
+- name: Sarnava Konar
+  image: Sarnava.jpg
+  github: sarnava1
